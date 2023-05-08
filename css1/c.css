@@ -1,0 +1,162 @@
+body{
+    margin: auto;
+background-image: url(une-photo-app-samsung.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.a{
+    width: 80px;
+    height: 80px;
+    float: left;
+     padding-left: 20px;
+  
+ 
+}
+.z{
+    
+    float: left;
+    width: 50%;
+   padding-top: 0px;
+   font-size: 20px;
+   padding-left: 20px;
+   
+}
+
+ul li{
+    display: inline;
+    padding-right: 20px;
+ 
+
+}
+a:hover{
+    color: beige;
+}
+
+nav ul li a{
+text-decoration: none; 
+letter-spacing: 1px;
+color: black;
+
+}
+.t{
+   
+  float: right; 
+    margin-right: 20px;
+    margin-top: 20px;
+   
+   
+}
+.e{
+    margin: auto;
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    
+}
+.q{
+    width: 400px;
+    height: 400px;
+    float: right;
+  padding-left: 50px;
+ border-radius: 20px;
+}
+.q:hover{
+  background-image: url(blue.webp);
+    opacity: 0.3;
+}
+
+.y{
+    text-align: center;
+    padding-top: 200px;
+    font-size: 30px;
+    color: rgb(0, 0, 51);
+    text-decoration: underline;
+}
+.s{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 20px;
+    font-weight: 10px;
+    color: rgb(4, 4, 4);
+  
+}
+.h1{
+    text-align: center;
+    color: rgb(2, 2, 32);
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+h2:hover{
+    color: aqua;
+}
+
+.az{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.la{
+    width: 300px;
+    justify-content: space-between;
+    border: 5px solid;
+    text-align: center;
+    border-radius: 10px;
+}
+.lz{
+    width: 300px;
+    justify-content: space-between;
+    border: 5px solid;
+    text-align: center;
+    border-radius: 10px;
+}
+.lz:hover{
+opacity: 0.5;
+font-size: 25px;
+}
+.la:hover:hover{
+    opacity: 0.5;
+    font-size: 25px;
+    }
+    .le:hover{
+        opacity: 0.5;
+        font-size: 25px;
+        }
+
+.le{
+    width: 300px;
+    justify-content: space-between;
+    border: 5px solid;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+.zou{
+    border: 2px solid black;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 10px red;
+  
+ 
+  
+ }
+ .tou{
+   
+     padding-top: 10px;
+ }
+ .you{
+     
+     padding-left: 30px;
+     color: rgb(0, 0, 0);
+ }
+ .dou{
+     
+  padding-left: 30px;
+ padding-top: 40px;
+  
+  color: rgb(0, 0, 0);
+ 
+ }

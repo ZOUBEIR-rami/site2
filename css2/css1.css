@@ -1,0 +1,95 @@
+body{
+   background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+    width: 80px;
+    height: 80px;
+    float: left;
+   
+}
+a:hover{
+    color: rgb(29, 138, 185);
+}
+nav ul li a{
+    text-decoration: none; 
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);}
+.z{
+    
+    float: left;
+    width: 94%;
+   padding-top: 0px;
+   font-size: 20px;
+}
+
+ul li{
+    display: inline;
+    padding-right: 20px;
+ 
+
+}
+.t{
+   
+  float: right; 
+}
+.fd{
+    text-align: center;
+    padding-top: 200px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+h1:hover{
+    color: rgb(255, 225, 124);
+}
+.zou{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+.you:hover{
+    opacity: 0.7;
+}
+.tou:hover{
+    opacity: 0.7;
+}
+.you{
+    width: 300px;
+    border: 3px solid black;
+}
+.tou{
+    width: 300px;
+    border: 3px solid black;
+}
+.uou{
+    border: 2px solid black;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 10px red;
+  
+ 
+  
+ }
+ .lou{
+   
+     padding-top: 10px;
+ }
+ .iou{
+     
+     padding-left: 30px;
+     color: rgb(0, 0, 0);
+ }
+ .pou{
+     
+  padding-left: 30px;
+ padding-top: 40px;
+  
+  color: rgb(0, 0, 0);
+ 
+ }
